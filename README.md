@@ -1,4 +1,3 @@
-# spotify-popularity-prediction
 # Predictive Classification under Severe Class Imbalance
 
 Benchmarking four classifiers on 114,000 Spotify tracks where only 1 in 10 is popular.
